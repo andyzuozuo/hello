@@ -1,0 +1,24 @@
+.
+├── hello.txt
+├── mvnw
+├── mvnw.cmd
+├── pom.xml
+├── readme.MD
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── example
+│   │   │           └── hello
+│   │   │               └── DemoApplication.java
+│   │   └── resources
+│   │       └── application.properties
+│   └── test
+│       └── java
+│           └── com
+│               └── example
+│                   └── hello
+│                       └── DemoApplicationTests.java
+└── tree.txt
+
+12 directories, 9 files
